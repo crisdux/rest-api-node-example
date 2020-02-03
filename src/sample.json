@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "titulo": "Pulp Fiction",
+        "director":"James Cameron",
+        "year":1996
+
+    },
+    {
+        "id":2,
+        "titulo": "Tiempos Modernos",
+        "director":"Chaplin",
+        "year":1958
+
+    }
+]
